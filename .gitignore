@@ -1,0 +1,5 @@
+# add mac DS_Store files from all directories
+**/.DS_Store
+
+# add node modules
+**/node_modules/
